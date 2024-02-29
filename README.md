@@ -1,8 +1,6 @@
-# [live demo](https://asan-khedmat.vercel.app/)
+# [live demo](https://task-list-app-lake.vercel.app/)
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
